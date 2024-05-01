@@ -81,7 +81,6 @@ end)
 
 
 NukeSection:NewSlider("NukePower", "Print how much you wanna fuck the server", 1000, 1, function(s)
-    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
 end)
 
 
